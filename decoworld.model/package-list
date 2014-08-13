@@ -1,4 +1,5 @@
 decoworld.model
+decoworld.model.buildings
 decoworld.model.events.db
 decoworld.model.events.world
 decoworld.model.world
