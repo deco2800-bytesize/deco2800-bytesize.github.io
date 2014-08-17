@@ -1,11 +1,11 @@
 decoworld.model
-decoworld.model.buildings
 decoworld.model.events.db
 decoworld.model.events.world
 decoworld.model.world
 decoworld.model.world.combat
 decoworld.model.world.combat.damage
 decoworld.model.world.combat.events
+decoworld.model.world.combat.groups
 decoworld.model.world.crafting
 decoworld.model.world.entities
 decoworld.model.world.entities.combat
