@@ -2,14 +2,17 @@ decoworld.model
 decoworld.model.events.db
 decoworld.model.events.world
 decoworld.model.world
+decoworld.model.world.WorldItems
 decoworld.model.world.combat
 decoworld.model.world.combat.damage
 decoworld.model.world.combat.events
 decoworld.model.world.combat.groups
 decoworld.model.world.combat.stats
 decoworld.model.world.crafting
+decoworld.model.world.dungeon
 decoworld.model.world.entities
 decoworld.model.world.entities.combat
+decoworld.model.world.entities.npc
 decoworld.model.world.entities.pets
 decoworld.model.world.items
 decoworld.model.world.map
