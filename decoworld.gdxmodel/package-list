@@ -1,4 +1,6 @@
 decoworld.gdxmodel
+decoworld.gdxmodel.Sound
 decoworld.gdxmodel.WorldItems
 decoworld.gdxmodel.entities
+decoworld.gdxmodel.entities.enemies
 decoworld.gdxmodel.topdown

@@ -1,3 +1,6 @@
 decoworld.server
+decoworld.server.authentication
 decoworld.server.database
+decoworld.server.database.achievements
 decoworld.server.floop
+decoworld.server.voip

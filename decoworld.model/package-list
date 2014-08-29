@@ -1,6 +1,7 @@
 decoworld.model
 decoworld.model.events.db
 decoworld.model.events.world
+decoworld.model.item.itemtrading
 decoworld.model.world
 decoworld.model.world.WorldItems
 decoworld.model.world.abilities
@@ -12,11 +13,15 @@ decoworld.model.world.combat.stats
 decoworld.model.world.crafting
 decoworld.model.world.dungeon
 decoworld.model.world.entities
+decoworld.model.world.entities.character
 decoworld.model.world.entities.combat
+decoworld.model.world.entities.enemies
 decoworld.model.world.entities.inventory.containers
 decoworld.model.world.entities.inventory.itemBase
 decoworld.model.world.entities.inventory.itemTypes
 decoworld.model.world.entities.npc
 decoworld.model.world.entities.pets
+decoworld.model.world.infiniteDungeon
 decoworld.model.world.map
 decoworld.model.world.providers
+decoworld.model.world.safehouse
