@@ -24,8 +24,11 @@ decoworld.model.world.entities.inventory.itemTypes
 decoworld.model.world.entities.npc
 decoworld.model.world.entities.nyan
 decoworld.model.world.entities.pets
+decoworld.model.world.entities.pvp
+decoworld.model.world.entities.resourceNode
 decoworld.model.world.infiniteDungeon
 decoworld.model.world.map
+decoworld.model.world.nonCombatSkills
 decoworld.model.world.providers
 decoworld.model.world.quests
 decoworld.model.world.safehouse.furniture
