@@ -4,6 +4,7 @@ decoworld.model.events.world
 decoworld.model.item.itemtrading
 decoworld.model.shop
 decoworld.model.world
+decoworld.model.world.WorldItems
 decoworld.model.world.abilities
 decoworld.model.world.buildings
 decoworld.model.world.combat
@@ -21,6 +22,7 @@ decoworld.model.world.entities.enemies
 decoworld.model.world.entities.inventory.containers
 decoworld.model.world.entities.inventory.itemBase
 decoworld.model.world.entities.inventory.itemTypes
+decoworld.model.world.entities.mounts
 decoworld.model.world.entities.npc
 decoworld.model.world.entities.nyan
 decoworld.model.world.entities.pets
@@ -32,4 +34,3 @@ decoworld.model.world.nonCombatSkills
 decoworld.model.world.providers
 decoworld.model.world.quests
 decoworld.model.world.safehouse.furniture
-decoworld.model.world.worlditems
