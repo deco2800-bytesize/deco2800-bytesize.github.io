@@ -1,3 +1,7 @@
 decoworld.protocol
 decoworld.protocol.connect
+decoworld.protocol.connect.world
+decoworld.protocol.connect.world.entity
+decoworld.protocol.connect.world.entity.player
 decoworld.protocol.resources
+decoworld.protocol.serialise
