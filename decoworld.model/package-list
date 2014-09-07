@@ -4,7 +4,6 @@ decoworld.model.events.world
 decoworld.model.item.itemtrading
 decoworld.model.shop
 decoworld.model.world
-decoworld.model.world.WorldItems
 decoworld.model.world.abilities
 decoworld.model.world.buildings
 decoworld.model.world.combat
@@ -34,3 +33,4 @@ decoworld.model.world.nonCombatSkills
 decoworld.model.world.providers
 decoworld.model.world.quests
 decoworld.model.world.safehouse.furniture
+decoworld.model.world.worlditems
