@@ -6,6 +6,7 @@ decoworld.model.shop
 decoworld.model.world
 decoworld.model.world.abilities
 decoworld.model.world.buildings
+decoworld.model.world.classes
 decoworld.model.world.combat
 decoworld.model.world.combat.damage
 decoworld.model.world.combat.events
