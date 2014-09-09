@@ -1,4 +1,5 @@
 decoworld.protocol
+decoworld.protocol.accounts
 decoworld.protocol.connect
 decoworld.protocol.connect.world
 decoworld.protocol.connect.world.entity
