@@ -1,6 +1,5 @@
 decoworld.client
 decoworld.client.connection
-decoworld.client.gdx
 decoworld.client.keymap
 decoworld.client.minigames
 decoworld.client.screens
