@@ -1,6 +1,7 @@
 decoworld.model
 decoworld.model.events.db
 decoworld.model.events.world
+decoworld.model.gambling
 decoworld.model.item.itemtrading
 decoworld.model.shop
 decoworld.model.world
