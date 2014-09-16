@@ -4,6 +4,7 @@ decoworld.client.connection
 decoworld.client.keymap
 decoworld.client.minigames
 decoworld.client.screens
+decoworld.client.shop
 decoworld.client.voip
 decoworld.client.worlditemswindow
 menus
