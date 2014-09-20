@@ -4,6 +4,7 @@ decoworld.model.events.world
 decoworld.model.gambling
 decoworld.model.item.itemtrading
 decoworld.model.shop
+decoworld.model.sound
 decoworld.model.world
 decoworld.model.world.abilities
 decoworld.model.world.buildings

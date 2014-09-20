@@ -4,6 +4,7 @@ decoworld.server.authorization
 decoworld.server.database
 decoworld.server.database.ItemDatabase
 decoworld.server.database.achievements
+decoworld.server.database.professions
 decoworld.server.database.shop
 decoworld.server.floop
 decoworld.server.model
