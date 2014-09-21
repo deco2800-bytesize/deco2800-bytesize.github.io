@@ -1,5 +1,6 @@
 decoworld.gdxmodel
 decoworld.gdxmodel.entities
+decoworld.gdxmodel.entities.ResourceNodes
 decoworld.gdxmodel.entities.enemies
 decoworld.gdxmodel.environment
 decoworld.gdxmodel.pixmap

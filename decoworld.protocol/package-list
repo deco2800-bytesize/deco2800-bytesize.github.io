@@ -1,9 +1,11 @@
 decoworld.protocol
 decoworld.protocol.accounts
 decoworld.protocol.connect
+decoworld.protocol.connect.manager.playerview
 decoworld.protocol.connect.world
 decoworld.protocol.connect.world.entity
 decoworld.protocol.connect.world.entity.player
 decoworld.protocol.fastTravel
+decoworld.protocol.management
 decoworld.protocol.resources
 decoworld.protocol.serialise

@@ -1,8 +1,11 @@
 controllers
 decoworld.client
+decoworld.client.achievements
 decoworld.client.connection
+decoworld.client.currency
 decoworld.client.keymap
 decoworld.client.minigames
+decoworld.client.moderator
 decoworld.client.screens
 decoworld.client.shop
 decoworld.client.voip

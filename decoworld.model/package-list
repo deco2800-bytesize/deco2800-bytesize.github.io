@@ -3,10 +3,13 @@ decoworld.model.events.db
 decoworld.model.events.world
 decoworld.model.gambling
 decoworld.model.item.itemtrading
+decoworld.model.rewardvendors
 decoworld.model.shop
 decoworld.model.sound
 decoworld.model.world
+decoworld.model.world.Resources
 decoworld.model.world.abilities
+decoworld.model.world.achievements
 decoworld.model.world.buildings
 decoworld.model.world.classes
 decoworld.model.world.combat
@@ -29,6 +32,7 @@ decoworld.model.world.entities.npc
 decoworld.model.world.entities.nyan
 decoworld.model.world.entities.pets
 decoworld.model.world.entities.pvp
+decoworld.model.world.entities.randomevents
 decoworld.model.world.entities.resourceNode
 decoworld.model.world.entities.shop
 decoworld.model.world.infiniteDungeon
