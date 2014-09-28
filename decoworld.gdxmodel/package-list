@@ -4,5 +4,6 @@ decoworld.gdxmodel.entities.ResourceNodes
 decoworld.gdxmodel.entities.enemies
 decoworld.gdxmodel.environment
 decoworld.gdxmodel.pixmap
+decoworld.gdxmodel.sound
 decoworld.gdxmodel.topdown
 decoworld.gdxmodel.worlditems

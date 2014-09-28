@@ -2,13 +2,16 @@ decoworld.server
 decoworld.server.achievements
 decoworld.server.authentication
 decoworld.server.authorization
+decoworld.server.currency
 decoworld.server.database
 decoworld.server.database.ItemDatabase
 decoworld.server.database.clans
 decoworld.server.database.professions
 decoworld.server.database.rewardvendors
+decoworld.server.database.safehouse
 decoworld.server.database.shop
 decoworld.server.floop
+decoworld.server.gambling
 decoworld.server.persistence
 decoworld.server.providers
 decoworld.server.quests

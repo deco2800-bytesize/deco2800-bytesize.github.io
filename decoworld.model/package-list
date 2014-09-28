@@ -14,6 +14,7 @@ decoworld.model.world.buildings
 decoworld.model.world.classes
 decoworld.model.world.combat
 decoworld.model.world.combat.damage
+decoworld.model.world.combat.defense
 decoworld.model.world.combat.events
 decoworld.model.world.combat.groups
 decoworld.model.world.combat.stats
@@ -39,5 +40,6 @@ decoworld.model.world.infiniteDungeon
 decoworld.model.world.map
 decoworld.model.world.nonCombatSkills
 decoworld.model.world.quests
+decoworld.model.world.safehouse
 decoworld.model.world.safehouse.furniture
 decoworld.model.world.worlditems
