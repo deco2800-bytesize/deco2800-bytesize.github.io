@@ -16,4 +16,5 @@ decoworld.server.persistence
 decoworld.server.providers
 decoworld.server.quests
 decoworld.server.quests.questGoals
+decoworld.server.spawnerPlugins
 decoworld.server.voip
