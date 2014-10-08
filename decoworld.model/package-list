@@ -18,6 +18,7 @@ decoworld.model.world.combat.defense
 decoworld.model.world.combat.events
 decoworld.model.world.combat.groups
 decoworld.model.world.combat.stats
+decoworld.model.world.container
 decoworld.model.world.crafting
 decoworld.model.world.dungeon
 decoworld.model.world.dungeonentities

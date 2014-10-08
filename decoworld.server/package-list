@@ -1,4 +1,5 @@
 decoworld.server
+decoworld.server.SpawnerPlugins
 decoworld.server.achievements
 decoworld.server.authentication
 decoworld.server.authorization
@@ -6,15 +7,16 @@ decoworld.server.currency
 decoworld.server.database
 decoworld.server.database.ItemDatabase
 decoworld.server.database.clans
+decoworld.server.database.playeritems
 decoworld.server.database.professions
 decoworld.server.database.rewardvendors
 decoworld.server.database.safehouse
-decoworld.server.database.shop
+decoworld.server.database.townshop
 decoworld.server.floop
 decoworld.server.gambling
+decoworld.server.items.handler
 decoworld.server.persistence
 decoworld.server.providers
 decoworld.server.quests
 decoworld.server.quests.questGoals
-decoworld.server.spawnerPlugins
 decoworld.server.voip
