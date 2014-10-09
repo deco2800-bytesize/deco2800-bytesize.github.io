@@ -3,6 +3,8 @@ decoworld.model.events.db
 decoworld.model.events.world
 decoworld.model.gambling
 decoworld.model.item.itemtrading
+decoworld.model.netsync
+decoworld.model.netsync.world
 decoworld.model.rewardvendors
 decoworld.model.shop
 decoworld.model.sound
