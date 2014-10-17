@@ -3,7 +3,6 @@ decoworld.protocol.accounts
 decoworld.protocol.connect
 decoworld.protocol.connect.containers
 decoworld.protocol.connect.gambling
-decoworld.protocol.connect.manager.playerview
 decoworld.protocol.connect.multiplayer
 decoworld.protocol.connect.multiplayer.world
 decoworld.protocol.connect.world
@@ -12,5 +11,6 @@ decoworld.protocol.connect.world.entity.player
 decoworld.protocol.currency
 decoworld.protocol.fastTravel
 decoworld.protocol.management
+decoworld.protocol.management.player
 decoworld.protocol.resources
 decoworld.protocol.serialise

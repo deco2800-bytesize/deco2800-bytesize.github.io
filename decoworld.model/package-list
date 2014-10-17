@@ -9,7 +9,6 @@ decoworld.model.rewardvendors
 decoworld.model.shop
 decoworld.model.sound
 decoworld.model.world
-decoworld.model.world.Resources
 decoworld.model.world.abilities
 decoworld.model.world.buildings
 decoworld.model.world.classes

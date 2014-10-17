@@ -1,5 +1,6 @@
 controllers
 decoworld.client
+decoworld.client.P2P
 decoworld.client.achievements
 decoworld.client.cheat
 decoworld.client.connection
