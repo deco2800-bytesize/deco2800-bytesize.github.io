@@ -12,5 +12,6 @@ decoworld.protocol.currency
 decoworld.protocol.fastTravel
 decoworld.protocol.management
 decoworld.protocol.management.player
+decoworld.protocol.playerrating
 decoworld.protocol.resources
 decoworld.protocol.serialise
