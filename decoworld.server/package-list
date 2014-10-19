@@ -19,4 +19,5 @@ decoworld.server.persistence
 decoworld.server.providers
 decoworld.server.quests
 decoworld.server.quests.questGoals
+decoworld.server.textchat
 decoworld.server.voip
