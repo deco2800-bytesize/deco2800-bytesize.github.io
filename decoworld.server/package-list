@@ -2,7 +2,6 @@ decoworld.server
 decoworld.server.SpawnerPlugins
 decoworld.server.achievements
 decoworld.server.authentication
-decoworld.server.authorization
 decoworld.server.currency
 decoworld.server.database
 decoworld.server.database.ItemDatabase
