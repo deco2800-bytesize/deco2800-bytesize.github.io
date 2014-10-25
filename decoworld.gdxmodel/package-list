@@ -5,6 +5,5 @@ decoworld.gdxmodel.entities.enemies
 decoworld.gdxmodel.environment
 decoworld.gdxmodel.pixmap
 decoworld.gdxmodel.renderable
-decoworld.gdxmodel.sound
 decoworld.gdxmodel.topdown
 decoworld.gdxmodel.worlditems
