@@ -1,5 +1,7 @@
 decoworld.manager
 decoworld.manager.achievements
 decoworld.manager.itemsview
+decoworld.manager.lore
 decoworld.manager.mobs
 decoworld.manager.playerview
+decoworld.manager.users

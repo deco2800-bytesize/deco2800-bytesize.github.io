@@ -2,6 +2,7 @@ decoworld.gdxmodel
 decoworld.gdxmodel.entities
 decoworld.gdxmodel.entities.ResourceNodes
 decoworld.gdxmodel.entities.enemies
+decoworld.gdxmodel.entities.pets
 decoworld.gdxmodel.environment
 decoworld.gdxmodel.pixmap
 decoworld.gdxmodel.renderable

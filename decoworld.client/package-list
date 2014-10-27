@@ -3,6 +3,7 @@ decoworld.client
 decoworld.client.P2P
 decoworld.client.achievements
 decoworld.client.cheat
+decoworld.client.clans
 decoworld.client.connection
 decoworld.client.crafting
 decoworld.client.currency
@@ -11,6 +12,7 @@ decoworld.client.gambling
 decoworld.client.keymap
 decoworld.client.minigames
 decoworld.client.moderator
+decoworld.client.petcontrolpanel
 decoworld.client.playerrating
 decoworld.client.rewardvendors
 decoworld.client.screens

@@ -1,6 +1,7 @@
 decoworld.protocol
 decoworld.protocol.accounts
 decoworld.protocol.connect
+decoworld.protocol.connect.clans
 decoworld.protocol.connect.containers
 decoworld.protocol.connect.gambling
 decoworld.protocol.connect.multiplayer

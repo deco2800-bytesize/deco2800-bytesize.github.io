@@ -28,6 +28,7 @@ decoworld.model.world.crafting
 decoworld.model.world.dungeon
 decoworld.model.world.dungeonentities
 decoworld.model.world.entities
+decoworld.model.world.entities.abilities
 decoworld.model.world.entities.character
 decoworld.model.world.entities.combat
 decoworld.model.world.entities.enemies
@@ -42,8 +43,10 @@ decoworld.model.world.entities.pvp
 decoworld.model.world.entities.randomevents
 decoworld.model.world.entities.resourceNode
 decoworld.model.world.entities.shop
+decoworld.model.world.entities.weapons
 decoworld.model.world.infiniteDungeon
 decoworld.model.world.map
+decoworld.model.world.map.extensions
 decoworld.model.world.nonCombatSkills
 decoworld.model.world.quests
 decoworld.model.world.safehouse
